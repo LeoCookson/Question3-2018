@@ -1,0 +1,10 @@
+C:\Users\Leo\Desktop\Question3\bin\Debug\netcoreapp2.0\Question3.deps.json
+C:\Users\Leo\Desktop\Question3\bin\Debug\netcoreapp2.0\Question3.runtimeconfig.json
+C:\Users\Leo\Desktop\Question3\bin\Debug\netcoreapp2.0\Question3.runtimeconfig.dev.json
+C:\Users\Leo\Desktop\Question3\bin\Debug\netcoreapp2.0\Question3.dll
+C:\Users\Leo\Desktop\Question3\bin\Debug\netcoreapp2.0\Question3.pdb
+C:\Users\Leo\Desktop\Question3\obj\Debug\netcoreapp2.0\Question3.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Question3\obj\Debug\netcoreapp2.0\Question3.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Question3\obj\Debug\netcoreapp2.0\Question3.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Question3\obj\Debug\netcoreapp2.0\Question3.dll
+C:\Users\Leo\Desktop\Question3\obj\Debug\netcoreapp2.0\Question3.pdb
